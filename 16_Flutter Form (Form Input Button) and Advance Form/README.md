@@ -1,0 +1,4 @@
+# Flutter Form and Advance Form
+
+- Form merupakan widget yang digunakann untuk menerima data dari pengguna yang memiliki beberapa jenis diantaranya adalah input untuk menerima isian data dapat lebih dari satu, textfield untuk menerima isian data berupa teks, radio untuk memberi opsi hanya memilih satu, checkbox untuk memilih opsi lebih dari satu, dropdown untuk tampilan opsi yang muncul ketika diklik oleh pengguna dan hanya dapat memilih satu opsi, dan button yang dapat melakukan suatu reaksi ketika ditekan.
+- Advance form merupakan widget yang digunakan untuk mengumpulkan input dan feedback dari user yang terdiri dari beberapa widget diantaranya adalah 'date picker' untuk user dapat memilih tanggal, 'color picker' untuk user memilih warna, dan 'file picker' untuk user dapaat memilih suatu file dalam penyimpanan.
