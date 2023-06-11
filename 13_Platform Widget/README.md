@@ -1,3 +1,5 @@
 # Platform Widget
 
-* Platform widget merupakan 
+- Platform widget merupakan widget dasar yang digunakan untuk mengemas seluruh widget dalam aplikasi yang terbagi menjadi 2 yaitu MaterialApp dan CupertinoApp.
+- MaterialApp merupakan widget dasar yang digunakan untuk mengemas seluruh widget dalam aplikasi berbasis android yang terdiri dari struktur theme untuk mengatur tema aplikasi, dan home untuk mengatur widget atau tampilan yang pertama kali dibuka pada aplikasi. Kemudian pada pewarisan MaterialApp terdapat Scaffold yang merupakan widget dasar untuk membangun sebuah tampilan seperti appbar, menubar, body, dan sebagainya.
+- CupertinoApp merupakan widget dasar yang digunakan untuk mengemas seluruh widget dalam aplikasi berbasis IOS. Sama halnya dengan MaterialApp, pada CupertinoApp terdiri dari struktur theme dan home, namun pada CupertinoApp theme harus dibuat terlebih dahulu variablenya karena tidak disediakan langsung. Terdapat widget CupertinoPageScaffold yang digunakan juga untuk menmbangun sebuah tampilan dasar seperti navigationBar dan Child.
